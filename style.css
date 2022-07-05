@@ -5,7 +5,8 @@
   box-sizing: border-box;
 }
 .header-container {
-  background-image: url("images/donation13.jpg");
+  background-image: linear-gradient(transparent, rgb(42, 42, 42)),
+    url("images/donate16.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
